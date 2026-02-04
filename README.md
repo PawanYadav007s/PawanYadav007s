@@ -1,67 +1,83 @@
 <div align="center">
 
 # 👋 Hi, I'm Pawan Yadav
-### Backend Engineer | Python | Flask | PostgreSQL | Production Systems
+### Backend Engineer | Python | ERP & Production Systems | DevOps
 
-💡 I design, build, and deploy real-world business applications used daily in production environments.
+🚀 I build real-world business software used daily in production — from database design to deployment.
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## 💼 What I Specialize In
 
-- 🐍 Backend Development with Python & Flask
-- 🗄️ Database Design & Optimization (PostgreSQL)
-- ⚙️ API Development & System Architecture
-- 🐳 Deployment using Docker, Linux, LAN/AWS
-- 🤖 Exploring AI/LLM integrations for automation
-
----
-
-## ⭐ Featured Project (Production System)
-
-### 🏢 Enterprise ERP System
-Full-stack ERP application built from scratch and deployed for internal company use.
-
-✔ 80+ database tables  
-✔ Purchase, Inventory, Quotation modules  
-✔ JWT authentication & role-based access  
-✔ Automated reports (Excel/PDF)  
-✔ LAN deployment for multi-user access  
-✔ Backup & restore strategy  
-✔ Production support & feature releases  
-
-**Tech:** Python, Flask, PostgreSQL, Bootstrap, Gunicorn, Docker
-
-👉 Check repository for screenshots & architecture
+✔ Backend Development (Python, Flask, REST APIs)  
+✔ ERP / Business System Architecture  
+✔ Database Design & Optimization (PostgreSQL, MySQL)  
+✔ Linux & LAN Deployments  
+✔ Docker & AWS (EC2)  
+✔ Production Support & Release Management  
+✔ Automation & LLM Integrations  
 
 ---
 
-## 💼 Other Projects
+## ⭐ Featured Projects
 
-- REST API based business tools
-- Automation scripts
-- AI/LLM based utilities (learning & building)
+### 🏢 Enterprise ERP System (Production)
+Full-stack ERP built and deployed for internal company operations.
+
+• 80+ tables  
+• Purchase, Inventory, Quotation, Billing modules  
+• JWT authentication & role-based access  
+• PDF/Excel report generation  
+• LAN multi-user deployment  
+• Backup/restore + migrations  
+• Dockerized + production ready  
+
+Tech: Python, Flask, PostgreSQL, Docker, Linux, Git
+
+---
+
+### ⚙️ Industrial Controller Dashboard
+Flask-based system for monitoring & controlling hardware power supply devices (Phidgets/PSW).
+
+• Real-time device monitoring  
+• Offline LAN deployment  
+• Secure local control system  
+
+---
+
+### 🤖 Automation & AI Utilities
+Python tools using LLM APIs for document automation and workflow optimization.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend:** Python, Flask, FastAPI  
-**Database:** PostgreSQL, MySQL  
-**DevOps:** Docker, Git, Linux, AWS  
-**Tools:** Pandas, ReportLab, OpenPyXL  
-**Currently Learning:** LLM APIs, LangChain, RAG systems  
+**Languages**  
+Python • SQL • Java • Shell
+
+**Backend**  
+Flask • REST APIs • JWT • Gunicorn
+
+**Database**  
+PostgreSQL • MySQL • Query Optimization
+
+**DevOps / Infra**  
+Linux • Docker • AWS EC2 • Git • CI/CD
+
+**Desktop & Tools**  
+PyQt • PyInstaller • Excel Automation
+
+**Process Knowledge**  
+ITIL • SLA • SOP • Production Support
 
 ---
 
-## 🌐 Connect With Me
-
+## 🌐 Connect
 📧 pawanyadav211191@gmail.com  
 🔗 LinkedIn  
-💻 Portfolio  
 
 ---
 
-⭐ I enjoy building systems end-to-end — from database design to production deployment.
+💡 I enjoy owning systems end-to-end — development, deployment, and production stability.
