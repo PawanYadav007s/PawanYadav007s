@@ -1,83 +1,64 @@
-<div align="center">
+# Hi, I'm Pawan Yadav 👋
 
-# 👋 Hi, I'm Pawan Yadav
-### Backend Engineer | Python | ERP & Production Systems | DevOps
+### Software Engineer | Python & Enterprise Applications | AI-Assisted Development
 
-🚀 I build real-world business software used daily in production — from database design to deployment.
+I build reliable software for enterprise operations, industrial automation, data-driven workflows, and productivity. My work spans web applications, desktop systems, APIs, databases, deployment, networking, and industrial integrations.
 
-</div>
+I enjoy translating real operational requirements into maintainable applications—from ERP workflows and inventory control to PLC-connected monitoring systems. I also use modern AI tools responsibly for research, architecture, coding, debugging, testing, documentation, and workflow improvement.
 
----
+## Technical skills
 
-## 💼 What I Specialize In
+### Languages and application development
 
-✔ Backend Development (Python, Flask, REST APIs)  
-✔ ERP / Business System Architecture  
-✔ Database Design & Optimization (PostgreSQL, MySQL)  
-✔ Linux & LAN Deployments  
-✔ Docker & AWS (EC2)  
-✔ Production Support & Release Management  
-✔ Automation & LLM Integrations  
+- **Languages:** Python, SQL, JavaScript, HTML5, CSS3, Bash, PowerShell
+- **Backend:** FastAPI, Flask, REST APIs, Jinja2, authentication and RBAC
+- **Desktop:** PyQt6, PySide, event-driven UI development, multithreading
+- **Frontend:** Responsive interfaces, Bootstrap, dashboards, browser-based workflows
 
----
+### Data, infrastructure, and integration
 
-## ⭐ Featured Projects
+- **Databases:** PostgreSQL, MySQL, SQLAlchemy, Alembic, schema design, migrations, query optimization
+- **Systems:** Linux, Windows, Git, GitHub, Docker, CI/CD, AWS EC2, production support
+- **Networking:** LAN deployments, client-server applications, connectivity troubleshooting, service configuration
+- **Industrial:** Siemens PLC integration, S7 communication, data acquisition, operational logging, reporting
 
-### 🏢 Enterprise ERP System (Production)
-Full-stack ERP built and deployed for internal company operations.
+### AI and machine learning
 
-• 80+ tables  
-• Purchase, Inventory, Quotation, Billing modules  
-• JWT authentication & role-based access  
-• PDF/Excel report generation  
-• LAN multi-user deployment  
-• Backup/restore + migrations  
-• Dockerized + production ready  
+- Machine-learning fundamentals, data preparation, model evaluation, and Python ML workflows
+- Prompt engineering, structured prompting, context design, and output verification
+- AI-assisted engineering with **OpenAI Codex, ChatGPT, Claude**, and related developer tools
+- Applying AI to code review, debugging, test design, documentation, research, and automation
+- Responsible use of AI with human verification, security awareness, and engineering judgment
 
-Tech: Python, Flask, PostgreSQL, Docker, Linux, Git
+## Featured projects
 
----
+| Project | What it demonstrates | Technologies |
+| --- | --- | --- |
+| [Enterprise ERP System](https://github.com/PawanYadav007s/erp-system-demo) | Integrated sales, purchasing, inventory, manufacturing, HR, finance, reporting, RBAC, and audit workflows | Python, Flask, PostgreSQL, SQLAlchemy, Bootstrap |
+| [Rework Counter](https://github.com/PawanYadav007s/rework_count_app) | Industrial desktop monitoring with PLC communication, database persistence, reports, and diagnostics | Python, PyQt6, Siemens S7/PLC, PostgreSQL |
+| [J.A.R.V.I.S Audio Player](https://github.com/PawanYadav007s/jarvis-audio-player) | Search-driven audio streaming and media playback | Python, yt-dlp, VLC |
+| [Developer Portfolio](https://github.com/PawanYadav007s/Portfolio_2025) | Responsive portfolio presenting experience, projects, and technical skills | HTML, CSS, JavaScript |
 
-### ⚙️ Industrial Controller Dashboard
-Flask-based system for monitoring & controlling hardware power supply devices (Phidgets/PSW).
+## Engineering strengths
 
-• Real-time device monitoring  
-• Offline LAN deployment  
-• Secure local control system  
+- Translating business and shop-floor needs into dependable software
+- Designing workflows across purchasing, inventory, manufacturing, sales, and finance
+- Building role-based, auditable applications with reporting and document generation
+- Diagnosing application, database, deployment, and networking issues
+- Owning systems across development, deployment, maintenance, and production stability
+- Learning new technologies quickly and using AI tools with disciplined verification
 
----
+## Current focus
 
-### 🤖 Automation & AI Utilities
-Python tools using LLM APIs for document automation and workflow optimization.
+- Scalable Python backend and API development
+- Enterprise and industrial application engineering
+- Applied machine learning and intelligent automation
+- AI-assisted software development and prompt engineering
+- Linux, networking, DevOps, automated testing, and production readiness
 
----
+## Connect
 
-## 🛠 Tech Stack
+- GitHub: [@PawanYadav007s](https://github.com/PawanYadav007s)
+- LinkedIn: [Pawan Yadav](https://www.linkedin.com/in/pawan-yadav-42a16020a)
 
-**Languages**  
-Python • SQL • Java • Shell
-
-**Backend**  
-Flask • REST APIs • JWT • Gunicorn
-
-**Database**  
-PostgreSQL • MySQL • Query Optimization
-
-**DevOps / Infra**  
-Linux • Docker • AWS EC2 • Git • CI/CD
-
-**Desktop & Tools**  
-PyQt • PyInstaller • Excel Automation
-
-**Process Knowledge**  
-ITIL • SLA • SOP • Production Support
-
----
-
-## 🌐 Connect
-📧 pawanyadav211191@gmail.com  
-🔗 LinkedIn  
-
----
-
-💡 I enjoy owning systems end-to-end — development, deployment, and production stability.
+> Strong engineering combines domain knowledge, dependable implementation, continuous learning, and the judgment to use modern tools well.
