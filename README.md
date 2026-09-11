@@ -30,14 +30,18 @@ I enjoy translating real operational requirements into maintainable applications
 - Applying AI to code review, debugging, test design, documentation, research, and automation
 - Responsible use of AI with human verification, security awareness, and engineering judgment
 
-## Featured projects
+## Production and company projects
 
-| Project | What it demonstrates | Technologies |
+My strongest work is focused on production software, industrial systems, manufacturing traceability, and internal business applications. Some company repositories remain private because they contain operational or proprietary code.
+
+| Project | Role and business value | Engineering focus |
 | --- | --- | --- |
-| [Enterprise ERP System](https://github.com/PawanYadav007s/erp-system-demo) | Integrated sales, purchasing, inventory, manufacturing, HR, finance, reporting, RBAC, and audit workflows | Python, Flask, PostgreSQL, SQLAlchemy, Bootstrap |
-| [Rework Counter](https://github.com/PawanYadav007s/rework_count_app) | Industrial desktop monitoring with PLC communication, database persistence, reports, and diagnostics | Python, PyQt6, Siemens S7/PLC, PostgreSQL |
-| [J.A.R.V.I.S Audio Player](https://github.com/PawanYadav007s/jarvis-audio-player) | Search-driven audio streaming and media playback | Python, yt-dlp, VLC |
-| [Developer Portfolio](https://github.com/PawanYadav007s/Portfolio_2025) | Responsive portfolio presenting experience, projects, and technical skills | HTML, CSS, JavaScript |
+| **Enterprise ERP System** · [public case study](https://github.com/PawanYadav007s/erp-system-demo) | Designed and developed an integrated platform for sales, purchasing, inventory, manufacturing, HR, finance, reporting, approvals, and audit workflows | Python, Flask, PostgreSQL, SQLAlchemy, Alembic, Bootstrap, Docker |
+| **RASCO Monitoring Tool** · private company project | Built an industrial monitoring solution for equipment visibility, operational data capture, diagnostics, and reliable shop-floor use | Python, desktop UI, device integration, networking, logging |
+| **Seal Press Application** · private company project | Developed production software supporting seal-press operations, process control, data recording, and operator workflows | Python, PyQt/PySide, PLC integration, PostgreSQL |
+| **Army Rear Axle Assembly** · private company project | Developed a manufacturing application for rear-axle assembly workflows, production traceability, validation, and reporting | Python, desktop application, industrial integration, database systems |
+| **Material Tracker Web App** · [collaborative project](https://github.com/surajk003/Material_Tracker_APP) | Contributed to a web application for tracking materials and improving visibility across operational workflows | Web development, backend integration, databases, collaborative Git workflow |
+| **RASCO Connect Web App** · [collaborative project](https://github.com/surajk003/RASCO_CONNECT) | Contributed to an internal web platform connecting company information and operational workflows | Web application development, API integration, frontend, team collaboration |
 
 ## Engineering strengths
 
